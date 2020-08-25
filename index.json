@@ -1,11 +1,29 @@
 {
     "packages": [ 
-    {
-      "id": "pcntd-meta-data",
-      "name": "Ethiopia NTD Metadata",
-      "description": "PC NTD for WHO reporting",
-      "version": "0.1",
-      "href": "https://raw.githubusercontent.com/ntddhis2/ntddb-metadata/master/metadata.json"
-    }]
+        {
+            "id": "pcntd-meta-data",
+            "name": "Ethiopia NTD Metadata",
+            "organization": "FMOH NTD",
+            "description": "PC NTD for WHO Reporting",
+            "url": "https://ntddhis2.github.io/",
+            "icons": [{
+                "48": "https://github.com/ntddhis2/ntddb-metadata/raw/master/assets/logo48.png",
+                "128": "https://github.com/ntddhis2/ntddb-metadata/raw/master/assets/logo128.png"
+            }],
+            "license": {
+                "name": "Creative commons",
+                "url": "https://creativecommons.org/licenses/by/4.0/"
+            },
+            "tags": [
+                "PC NTD",
+                "Aggregate"
+            ],
+            "versions": [{
+                "version": "0.1",
+                "href": "https://raw.githubusercontent.com/ntddhis2/ntddb-metadata/master/metadata.json"
+            }]
+        } 
+    ]
   }
   
+
