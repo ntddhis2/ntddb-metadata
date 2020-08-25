@@ -1,0 +1,11 @@
+{
+    "packages": [ 
+    {
+      "id": "pcntd-meta-data",
+      "name": "Ethiopia NTD Metadata",
+      "description": "PC NTD for WHO reporting",
+      "version": "0.1",
+      "href": "https://raw.githubusercontent.com/ntddhis2/ntddb-metadata/master/metadata.json"
+    }]
+  }
+  
