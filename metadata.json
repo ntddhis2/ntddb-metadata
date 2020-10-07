@@ -68901,1061 +68901,1061 @@
     ],
     "indicators": [
         {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2020-03-05T21:10:34.594",
-            "denominator": "1",
-            "denominatorDescription": "1",
-            "id": "GXN7Vn4fvE9",
-            "indicatorType": {
-                "id": "MxGHzKaiBSP"
-            },
             "lastUpdated": "2020-03-05T21:10:34.594",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
+            "id": "GXN7Vn4fvE9",
+            "created": "2020-03-05T21:10:34.594",
             "name": "Districts that planned to treat for LF",
-            "numerator": "if(#{jHtmizoPBeA.V0BMspy4wZa}>0,1,0)",
-            "numeratorDescription": "Districted plannign to treat",
-            "publicAccess": "rw------",
             "shortName": "Districts that planned to treat for LF",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2020-03-05T22:05:27.504",
-            "denominator": "1",
+            "publicAccess": "rw------",
             "denominatorDescription": "1",
-            "id": "rMfP34AbwUG",
+            "numeratorDescription": "Districted plannign to treat",
+            "numerator": "if(#{jHtmizoPBeA.V0BMspy4wZa}>0,1,0)",
+            "denominator": "1",
+            "annualized": false,
             "indicatorType": {
                 "id": "MxGHzKaiBSP"
             },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
             "lastUpdated": "2020-03-05T22:05:27.504",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
+            "id": "rMfP34AbwUG",
+            "created": "2020-03-05T22:05:27.504",
             "name": "Districts that planned to treat for Oncho",
-            "numerator": "if(#{jHtmizoPBeA.tTPp1nAkGP7}>0,1,0)",
-            "numeratorDescription": "if treatments occured",
-            "publicAccess": "rw------",
             "shortName": "Districts that planned to treat for Oncho",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2020-03-05T22:25:00.978",
-            "denominator": "1",
+            "publicAccess": "rw------",
             "denominatorDescription": "1",
-            "id": "VGoedH2oAjm",
+            "numeratorDescription": "if treatments occured",
+            "numerator": "if(#{jHtmizoPBeA.tTPp1nAkGP7}>0,1,0)",
+            "denominator": "1",
+            "annualized": false,
             "indicatorType": {
                 "id": "MxGHzKaiBSP"
             },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
             "lastUpdated": "2020-03-05T22:37:04.409",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
+            "id": "VGoedH2oAjm",
+            "created": "2020-03-05T22:25:00.978",
             "name": "Districts that planned to treat for SCH",
-            "numerator": "if(#{jHtmizoPBeA.VvPBXlaJZU7}>0,1,0)",
-            "numeratorDescription": "Number of treatment rounds planned for the year SCH",
-            "publicAccess": "rw------",
             "shortName": "Districts that planned to treat for SCH",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2020-03-05T22:38:13.963",
-            "denominator": "1",
+            "publicAccess": "rw------",
             "denominatorDescription": "1",
-            "id": "ApbAOncVY5P",
+            "numeratorDescription": "Number of treatment rounds planned for the year SCH",
+            "numerator": "if(#{jHtmizoPBeA.VvPBXlaJZU7}>0,1,0)",
+            "denominator": "1",
+            "annualized": false,
             "indicatorType": {
                 "id": "MxGHzKaiBSP"
             },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
             "lastUpdated": "2020-03-05T22:39:06.432",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
+            "id": "ApbAOncVY5P",
+            "created": "2020-03-05T22:38:13.963",
             "name": "Districts that planned to treat for STH",
-            "numerator": "if(#{jHtmizoPBeA.kZdL7Ru8FXQ}>0,1,0)",
-            "numeratorDescription": "if number of rounds planned is greater than 0",
-            "publicAccess": "rw------",
             "shortName": "Districts that planned to treat for STH",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2020-03-05T22:03:28.915",
-            "denominator": "1",
+            "publicAccess": "rw------",
             "denominatorDescription": "1",
-            "id": "smtTetvW7Rq",
+            "numeratorDescription": "if number of rounds planned is greater than 0",
+            "numerator": "if(#{jHtmizoPBeA.kZdL7Ru8FXQ}>0,1,0)",
+            "denominator": "1",
+            "annualized": false,
             "indicatorType": {
                 "id": "MxGHzKaiBSP"
             },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
             "lastUpdated": "2020-03-05T22:03:28.915",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
+            "id": "smtTetvW7Rq",
+            "created": "2020-03-05T22:03:28.915",
             "name": "Districts Treated for Oncho",
-            "numerator": "if( greatest(#{JNrmrFP0Hxl},#{OqrSMyo77Kv},#{RS6LX2rpPiS}) > 0,1,0)",
-            "numeratorDescription": "if mda1 or mda3, then set to 1",
-            "publicAccess": "rw------",
             "shortName": "Districts Treated for Oncho",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2020-03-05T22:23:00.911",
-            "denominator": "1",
+            "publicAccess": "rw------",
             "denominatorDescription": "1",
-            "id": "VlCecDAXytA",
+            "numeratorDescription": "if mda1 or mda3, then set to 1",
+            "numerator": "if( greatest(#{JNrmrFP0Hxl},#{OqrSMyo77Kv},#{RS6LX2rpPiS}) > 0,1,0)",
+            "denominator": "1",
+            "annualized": false,
             "indicatorType": {
                 "id": "MxGHzKaiBSP"
             },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
             "lastUpdated": "2020-03-05T22:23:00.911",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
+            "id": "VlCecDAXytA",
+            "created": "2020-03-05T22:23:00.911",
             "name": "Districts Treated for SCH",
-            "numerator": "if( greatest(#{x6b06O6ZTMq},#{k4EUoCxJ29g}) >0,1,0)",
-            "numeratorDescription": "If T1 or T2",
-            "publicAccess": "rw------",
             "shortName": "Districts Treated for SCH",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2020-03-05T21:11:59.574",
-            "denominator": "1",
+            "publicAccess": "rw------",
             "denominatorDescription": "1",
-            "id": "QgeFWQpZyM7",
+            "numeratorDescription": "If T1 or T2",
+            "numerator": "if( greatest(#{x6b06O6ZTMq},#{k4EUoCxJ29g}) >0,1,0)",
+            "denominator": "1",
+            "annualized": false,
             "indicatorType": {
                 "id": "MxGHzKaiBSP"
             },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
             "lastUpdated": "2020-03-05T21:11:59.574",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
+            "id": "QgeFWQpZyM7",
+            "created": "2020-03-05T21:11:59.574",
             "name": "District Treated for LF",
-            "numerator": "if(#{JNrmrFP0Hxl}>0,1,0)",
-            "numeratorDescription": "population treated",
-            "publicAccess": "rw------",
             "shortName": "District Treated for LF",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2020-03-05T22:41:49.262",
-            "denominator": "1",
+            "publicAccess": "rw------",
             "denominatorDescription": "1",
-            "id": "AoI9KoXLnEW",
+            "numeratorDescription": "population treated",
+            "numerator": "if(#{JNrmrFP0Hxl}>0,1,0)",
+            "denominator": "1",
+            "annualized": false,
             "indicatorType": {
                 "id": "MxGHzKaiBSP"
             },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
             "lastUpdated": "2020-03-05T22:41:49.262",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
+            "id": "AoI9KoXLnEW",
+            "created": "2020-03-05T22:41:49.262",
             "name": "District Treated for STH",
-            "numerator": "if( greatest(#{jTYuUWDJ4Ap},#{JPD0T0KW7Ni})>0,1,0)",
-            "numeratorDescription": "if T3 round 1 or 2",
-            "publicAccess": "rw------",
             "shortName": "District Treated for STH",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2020-03-05T21:13:35.736",
-            "denominator": "1",
+            "publicAccess": "rw------",
             "denominatorDescription": "1",
-            "id": "V8tDBLlhCmg",
+            "numeratorDescription": "if T3 round 1 or 2",
+            "numerator": "if( greatest(#{jTYuUWDJ4Ap},#{JPD0T0KW7Ni})>0,1,0)",
+            "denominator": "1",
+            "annualized": false,
             "indicatorType": {
                 "id": "MxGHzKaiBSP"
             },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
             "lastUpdated": "2020-03-05T21:41:24.867",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
+            "id": "V8tDBLlhCmg",
+            "created": "2020-03-05T21:13:35.736",
             "name": "District Treatment Execution for LF",
-            "numerator": "N{GXN7Vn4fvE9} - N{QgeFWQpZyM7}",
-            "numeratorDescription": "1 GXN7Vn4fvE9",
-            "publicAccess": "rw------",
             "shortName": "District Treatment Execution for LF",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2020-03-05T22:07:36.259",
-            "denominator": "1",
+            "publicAccess": "rw------",
             "denominatorDescription": "1",
-            "id": "GOwDKjCDLRa",
+            "numeratorDescription": "1 GXN7Vn4fvE9",
+            "numerator": "N{GXN7Vn4fvE9} - N{QgeFWQpZyM7}",
+            "denominator": "1",
+            "annualized": false,
             "indicatorType": {
                 "id": "MxGHzKaiBSP"
             },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
             "lastUpdated": "2020-03-05T22:07:36.259",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
+            "id": "GOwDKjCDLRa",
+            "created": "2020-03-05T22:07:36.259",
             "name": "District Treatment Execution for Oncho",
-            "numerator": "N{rMfP34AbwUG} - N{smtTetvW7Rq}",
-            "numeratorDescription": "Planned - Treated",
-            "publicAccess": "rw------",
             "shortName": "District Treatment Execution for Oncho",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2020-03-05T22:31:17.707",
-            "denominator": "1",
+            "publicAccess": "rw------",
             "denominatorDescription": "1",
-            "id": "BZEhRkc4lv8",
+            "numeratorDescription": "Planned - Treated",
+            "numerator": "N{rMfP34AbwUG} - N{smtTetvW7Rq}",
+            "denominator": "1",
+            "annualized": false,
             "indicatorType": {
                 "id": "MxGHzKaiBSP"
             },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
             "lastUpdated": "2020-03-05T22:31:17.707",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
+            "id": "BZEhRkc4lv8",
+            "created": "2020-03-05T22:31:17.707",
             "name": "District Treatment Execution for SCH",
-            "numerator": "N{VGoedH2oAjm} - N{VlCecDAXytA}",
-            "numeratorDescription": "Districts that planned to treat for SCH - Districts Treated for SCH",
-            "publicAccess": "rw------",
             "shortName": "District Treatment Execution for SCH",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2020-03-05T22:42:44.414",
-            "denominator": "1",
+            "publicAccess": "rw------",
             "denominatorDescription": "1",
-            "id": "gSRXysO3mJL",
+            "numeratorDescription": "Districts that planned to treat for SCH - Districts Treated for SCH",
+            "numerator": "N{VGoedH2oAjm} - N{VlCecDAXytA}",
+            "denominator": "1",
+            "annualized": false,
             "indicatorType": {
                 "id": "MxGHzKaiBSP"
             },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
             "lastUpdated": "2020-03-05T22:42:44.414",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
+            "id": "gSRXysO3mJL",
+            "created": "2020-03-05T22:42:44.414",
             "name": "District Treatment Execution for STH",
-            "numerator": "N{ApbAOncVY5P} - N{AoI9KoXLnEW}",
-            "numeratorDescription": "Districts that planned to treat for STH - District Treated for STH",
-            "publicAccess": "rw------",
             "shortName": "District Treatment Execution for STH",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2019-10-23T16:51:43.316",
-            "denominator": "1",
+            "publicAccess": "rw------",
             "denominatorDescription": "1",
-            "id": "KTac7eDtQmt",
+            "numeratorDescription": "Districts that planned to treat for STH - District Treated for STH",
+            "numerator": "N{ApbAOncVY5P} - N{AoI9KoXLnEW}",
+            "denominator": "1",
+            "annualized": false,
             "indicatorType": {
                 "id": "MxGHzKaiBSP"
             },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
             "lastUpdated": "2019-10-23T17:20:19.111",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
+            "id": "KTac7eDtQmt",
+            "created": "2019-10-23T16:51:43.316",
             "name": "Endemicity - Endemic Districts - LF",
-            "numerator": "if(#{M7FOk2ZzJCR.V0BMspy4wZa}==1,1,0)",
-            "numeratorDescription": "Endemic for LF",
-            "publicAccess": "rw------",
             "shortName": "Endemicity - Endemic Districts - LF",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2019-10-23T17:44:31.203",
-            "denominator": "1",
-            "denominatorDescription": "1",
-            "id": "W7AnXejcyOM",
-            "indicatorType": {
-                "id": "MxGHzKaiBSP"
-            },
-            "lastUpdated": "2019-10-23T17:44:31.203",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
-            "name": "Endemicity - High Prevalence Districts - STH",
-            "numerator": "if(#{M7FOk2ZzJCR.kZdL7Ru8FXQ}==3,1,0)",
-            "numeratorDescription": "Low Prevalence for STH",
             "publicAccess": "rw------",
-            "shortName": "Endemicity - High Prevalence Districts - STH",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2019-10-23T17:43:18.870",
-            "denominator": "1",
             "denominatorDescription": "1",
-            "id": "qmsqBEbP8Bn",
-            "indicatorType": {
-                "id": "MxGHzKaiBSP"
-            },
-            "lastUpdated": "2019-10-23T17:43:18.870",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
-            "name": "Endemicity - Low Prevalence Districts - STH",
-            "numerator": "if(#{M7FOk2ZzJCR.kZdL7Ru8FXQ}==1,1,0)",
-            "numeratorDescription": "Low Prevalence for STH",
-            "publicAccess": "rw------",
-            "shortName": "Endemicity - Low Prevalence Districts - STH",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2019-10-23T17:43:56.206",
-            "denominator": "1",
-            "denominatorDescription": "1",
-            "id": "A0mMJpKq1Lt",
-            "indicatorType": {
-                "id": "MxGHzKaiBSP"
-            },
-            "lastUpdated": "2019-10-23T17:43:56.206",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
-            "name": "Endemicity - Moderate Prevalence Districts - STH",
-            "numerator": "if(#{M7FOk2ZzJCR.kZdL7Ru8FXQ}==2,1,0)",
-            "numeratorDescription": "Low Prevalence for STH",
-            "publicAccess": "rw------",
-            "shortName": "Endemicity - Moderate Prevalence Districts - STH",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2019-10-23T17:20:42.661",
-            "denominator": "1",
-            "denominatorDescription": "1",
-            "id": "meizjbFiYOk",
-            "indicatorType": {
-                "id": "MxGHzKaiBSP"
-            },
-            "lastUpdated": "2019-10-23T18:03:10.971",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
-            "name": "Endemicity - Non-endemic Districts - LF",
-            "numerator": "if(#{M7FOk2ZzJCR.V0BMspy4wZa}==0,1,0)",
             "numeratorDescription": "Endemic for LF",
+            "numerator": "if(#{M7FOk2ZzJCR.V0BMspy4wZa}==1,1,0)",
+            "denominator": "1",
+            "annualized": false,
+            "indicatorType": {
+                "id": "MxGHzKaiBSP"
+            },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2019-10-23T17:44:31.203",
+            "id": "W7AnXejcyOM",
+            "created": "2019-10-23T17:44:31.203",
+            "name": "Endemicity - High Prevalence Districts - STH",
+            "shortName": "Endemicity - High Prevalence Districts - STH",
             "publicAccess": "rw------",
+            "denominatorDescription": "1",
+            "numeratorDescription": "Low Prevalence for STH",
+            "numerator": "if(#{M7FOk2ZzJCR.kZdL7Ru8FXQ}==3,1,0)",
+            "denominator": "1",
+            "annualized": false,
+            "indicatorType": {
+                "id": "MxGHzKaiBSP"
+            },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2019-10-23T17:43:18.870",
+            "id": "qmsqBEbP8Bn",
+            "created": "2019-10-23T17:43:18.870",
+            "name": "Endemicity - Low Prevalence Districts - STH",
+            "shortName": "Endemicity - Low Prevalence Districts - STH",
+            "publicAccess": "rw------",
+            "denominatorDescription": "1",
+            "numeratorDescription": "Low Prevalence for STH",
+            "numerator": "if(#{M7FOk2ZzJCR.kZdL7Ru8FXQ}==1,1,0)",
+            "denominator": "1",
+            "annualized": false,
+            "indicatorType": {
+                "id": "MxGHzKaiBSP"
+            },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2019-10-23T17:43:56.206",
+            "id": "A0mMJpKq1Lt",
+            "created": "2019-10-23T17:43:56.206",
+            "name": "Endemicity - Moderate Prevalence Districts - STH",
+            "shortName": "Endemicity - Moderate Prevalence Districts - STH",
+            "publicAccess": "rw------",
+            "denominatorDescription": "1",
+            "numeratorDescription": "Low Prevalence for STH",
+            "numerator": "if(#{M7FOk2ZzJCR.kZdL7Ru8FXQ}==2,1,0)",
+            "denominator": "1",
+            "annualized": false,
+            "indicatorType": {
+                "id": "MxGHzKaiBSP"
+            },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2019-10-23T18:03:10.971",
+            "id": "meizjbFiYOk",
+            "created": "2019-10-23T17:20:42.661",
+            "name": "Endemicity - Non-endemic Districts - LF",
             "shortName": "Endemicity - Non-endemic Districts - LF",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
+            "publicAccess": "rw------",
+            "denominatorDescription": "1",
+            "numeratorDescription": "Endemic for LF",
+            "numerator": "if(#{M7FOk2ZzJCR.V0BMspy4wZa}==0,1,0)",
+            "denominator": "1",
             "annualized": false,
-            "attributeValues": [],
-            "created": "2019-11-19T14:24:59.579",
-            "decimals": 0,
-            "denominator": "#{qoe4QWAq6jR}",
-            "denominatorDescription": "Population Targeted for MDA1",
-            "id": "BNDwoqGcUaq",
             "indicatorType": {
-                "id": "vInB2sb5EzY"
+                "id": "MxGHzKaiBSP"
             },
-            "lastUpdated": "2019-11-25T23:01:49.989",
             "lastUpdatedBy": {
                 "id": "ul20ZJdv3Ck"
             },
-            "legendSets": [],
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-10-07T15:54:14.075",
+            "id": "do4eqVJtMAd",
+            "created": "2020-10-07T15:45:13.877",
             "name": "% Epidemiological coverage for LF",
+            "shortName": "% Epidemiological coverage for LF",
+            "publicAccess": "rw------",
+            "denominatorDescription": "Population",
+            "numeratorDescription": "Population Treated for MDA1",
             "numerator": "#{JNrmrFP0Hxl}",
-            "numeratorDescription": "Population Treated for MDA1",
-            "publicAccess": "rw------",
-            "shortName": "% Epi coverage for LF",
-            "translations": [],
-            "user": {
-                "id": "M5zQapPyTZI"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
+            "denominator": "#{HdCsmGr74nI}",
             "annualized": false,
-            "attributeValues": [],
-            "created": "2019-03-03T15:27:43.862",
             "decimals": 0,
-            "denominator": "#{b1UgpNyL1Dw}",
-            "denominatorDescription": "Population requiring PC - LF",
-            "id": "skI78Xr2JL8",
             "indicatorType": {
                 "id": "vInB2sb5EzY"
             },
-            "lastUpdated": "2019-11-25T23:01:33.729",
             "lastUpdatedBy": {
                 "id": "ul20ZJdv3Ck"
             },
-            "legendSets": [],
-            "name": "% Epidemiological coverage for LF (old)",
-            "numerator": "#{MDo91FRtJur}",
-            "numeratorDescription": "Population Treated for MDA1",
-            "publicAccess": "rw------",
-            "shortName": "% Epi coverage for LF (old)",
-            "translations": [],
             "user": {
                 "id": "M5zQapPyTZI"
             },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2019-11-19T17:03:39.494",
-            "denominator": "greatest(#{qoe4QWAq6jR}, #{rcRWqBM5Oey})",
-            "denominatorDescription": "greatest(Population Targeted for MDA1, Population Targeted for MDA3)",
-            "id": "pOjKSTGWXS5",
-            "indicatorType": {
-                "id": "vInB2sb5EzY"
-            },
-            "lastUpdated": "2019-11-25T23:02:12.098",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
-            "name": "% Epidemiological coverage for oncho",
-            "numerator": "greatest(#{JNrmrFP0Hxl},#{OqrSMyo77Kv},#{RS6LX2rpPiS})",
-            "numeratorDescription": "Population treated for oncho",
-            "publicAccess": "rw------",
-            "shortName": "% Epi coverage for oncho",
             "translations": [],
-            "user": {
-                "id": "M5zQapPyTZI"
-            },
+            "userGroupAccesses": [],
+            "attributeValues": [],
             "userAccesses": [],
-            "userGroupAccesses": []
+            "legendSets": []
         },
         {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2019-03-03T16:28:51.157",
-            "denominator": "#{PQ8giF0T2Ux}",
-            "denominatorDescription": "Population requiring PC - oncho",
-            "id": "l3nr2hCszX0",
-            "indicatorType": {
-                "id": "vInB2sb5EzY"
-            },
             "lastUpdated": "2019-11-25T23:02:02.932",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
+            "id": "l3nr2hCszX0",
+            "created": "2019-03-03T16:28:51.157",
             "name": "% Epidemiological coverage for oncho (old)",
-            "numerator": "#{aHmt1Gjbubg}",
-            "numeratorDescription": "Population treated for oncho",
-            "publicAccess": "rw------",
             "shortName": "% Epi coverage for oncho (old)",
-            "translations": [],
-            "user": {
-                "id": "M5zQapPyTZI"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2019-11-20T00:15:13.939",
-            "denominator": "greatest(#{wMuHTPjBZt6},#{dmoPqc69Rml})",
-            "denominatorDescription": "greatest(Population Targeted for T1-PZQ,Population Targeted for T2)",
-            "id": "wzssm5LIgQq",
-            "indicatorType": {
-                "id": "vInB2sb5EzY"
-            },
-            "lastUpdated": "2019-11-25T23:01:02.956",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
-            "name": "% Epidemiological coverage - SCH",
-            "numerator": "greatest(#{x6b06O6ZTMq},#{k4EUoCxJ29g})",
-            "numeratorDescription": "greatest(Population Treated for T1,Population Treated for T2)",
             "publicAccess": "rw------",
-            "shortName": "% Epi coverage - SCH (new)",
-            "translations": [],
-            "user": {
-                "id": "M5zQapPyTZI"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2019-03-03T16:34:31.986",
-            "denominator": "#{qXbHnjF4Z4a.J28WZsF6S30} + #{qXbHnjF4Z4a.dM307212w1X} + #{qXbHnjF4Z4a.rgMcFrdj8Ha}",
-            "denominatorDescription": "SAC Population",
-            "id": "ESXAAGxr1yD",
-            "indicatorType": {
-                "id": "vInB2sb5EzY"
-            },
-            "lastUpdated": "2019-11-25T23:00:56.560",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
-            "name": "% Epidemiological coverage - SCH (old)",
-            "numerator": "#{BdVa6Im13iq}",
-            "numeratorDescription": "Population treated for SCH",
-            "publicAccess": "rw------",
-            "shortName": "% Epi coverage - SCH (old)",
-            "translations": [],
-            "user": {
-                "id": "M5zQapPyTZI"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2019-11-19T19:49:13.220",
-            "denominator": "greatest(#{fiy6WUwGPZp} , #{yVuMgov1svT})",
-            "denominatorDescription": "greatest(Population Targeted for T3 Round 1 , Population Targeted for T3 Round 2)",
-            "id": "yI60pqify6u",
-            "indicatorType": {
-                "id": "vInB2sb5EzY"
-            },
-            "lastUpdated": "2019-11-25T23:01:18.644",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
-            "name": "% Epidemiological coverage - STH",
-            "numerator": "greatest(#{jTYuUWDJ4Ap},#{JPD0T0KW7Ni})",
-            "numeratorDescription": "greatest(Population Treated for T3 Round 1,Population Treated for T3 Round 2)",
-            "publicAccess": "rw------",
-            "shortName": "% Epi coverage - STH (new)",
-            "translations": [],
-            "user": {
-                "id": "M5zQapPyTZI"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2019-03-03T16:33:27.147",
-            "denominator": "#{qXbHnjF4Z4a.J28WZsF6S30} + #{qXbHnjF4Z4a.dM307212w1X} + #{qXbHnjF4Z4a.rgMcFrdj8Ha}",
-            "denominatorDescription": "SAC Population",
-            "id": "fzNx5tpsvrQ",
-            "indicatorType": {
-                "id": "vInB2sb5EzY"
-            },
-            "lastUpdated": "2019-11-25T23:01:12.561",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
-            "name": "% Epidemiological coverage - STH (old)",
-            "numerator": "#{GkqUNJFflvt}",
-            "numeratorDescription": "Population treated for STH",
-            "publicAccess": "rw------",
-            "shortName": "% Epi coverage - STH (old)",
-            "translations": [],
-            "user": {
-                "id": "M5zQapPyTZI"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2019-03-03T16:38:38.908",
-            "denominator": "#{KfK7lTG9ofc}",
-            "denominatorDescription": "Population targeted for trachoma treatment",
-            "id": "BNILCzL2HX9",
-            "indicatorType": {
-                "id": "vInB2sb5EzY"
-            },
-            "lastUpdated": "2019-03-03T16:39:25.627",
-            "lastUpdatedBy": {
-                "id": "M5zQapPyTZI"
-            },
-            "legendSets": [],
-            "name": "% Epidemiological coverage - Trachoma",
-            "numerator": "#{mM3a9XLtQDz} + #{T6EpV7N8c4a} + #{jHBVMUYnnjt}",
-            "numeratorDescription": "Population treated for trachoma",
-            "publicAccess": "rw------",
-            "shortName": "% Epi coverage - Trachoma",
-            "translations": [],
-            "user": {
-                "id": "M5zQapPyTZI"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2019-10-21T20:41:00.250",
-            "denominator": "#{ZwP20eYcUOD}",
-            "denominatorDescription": "Total number of Health Post in the Woreda",
-            "id": "b6lvY8C71fX",
-            "indicatorType": {
-                "id": "vInB2sb5EzY"
-            },
-            "lastUpdated": "2019-10-21T20:41:00.250",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
-            "name": "% Health posts with drinking water from protected sources ",
-            "numerator": "#{kpmKG66JmzP}",
-            "numeratorDescription": "Total number of Health Post with Drinking Water with in Health Post premise from protected sources",
-            "publicAccess": "rw------",
-            "shortName": "% Health posts w drinking water f protect sources",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2019-10-10T21:00:52.274",
-            "denominator": "#{NAu2uyachB1}",
-            "denominatorDescription": "Total number of Households",
-            "id": "sKxkbPOhvaH",
-            "indicatorType": {
-                "id": "vInB2sb5EzY"
-            },
-            "lastUpdated": "2019-10-10T21:00:52.274",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
-            "name": "%  Households with improved toilets",
-            "numerator": "#{m5JyBMUaPLU}",
-            "numeratorDescription": "Total number of Households with improved toilet",
-            "publicAccess": "rw------",
-            "shortName": "%  Households with improved toilets",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2020-06-29T22:45:30.870",
-            "denominator": "1",
-            "denominatorDescription": "1",
-            "id": "K3cwFJx5PuR",
-            "indicatorType": {
-                "id": "MxGHzKaiBSP"
-            },
-            "lastUpdated": "2020-06-29T22:45:30.870",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
-            "name": "Is Impact Survey Planned",
-            "numerator": "if(#{VPOEyUqLMHN}==1,1,0)",
-            "numeratorDescription": "If true, then 1",
-            "publicAccess": "rw------",
-            "shortName": "Is Impact Survey Planned",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "code": "lf-total-num-ius",
-            "created": "2019-03-07T14:19:24.610",
-            "denominator": "1",
-            "denominatorDescription": "1",
-            "id": "Bvry1LK7QeI",
-            "indicatorType": {
-                "id": "MxGHzKaiBSP"
-            },
-            "lastUpdated": "2019-03-07T14:25:39.907",
-            "lastUpdatedBy": {
-                "id": "zeQW9Bzmb4w"
-            },
-            "legendSets": [],
-            "name": "LF - Total number of IUs",
-            "numerator": "#{xkdMpmLHObo} + #{OAXbNUQz4M3}",
-            "numeratorDescription": "Total IUs (known + unknown)",
-            "publicAccess": "rw------",
-            "shortName": "LF - Total number of IUs",
-            "translations": [],
-            "user": {
-                "id": "zeQW9Bzmb4w"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2019-10-21T20:28:14.407",
-            "denominator": "#{rA6QF7ZDLTO}",
-            "denominatorDescription": "Number of primary schools in the woreda",
-            "id": "oB8jY0YXLq5",
-            "indicatorType": {
-                "id": "vInB2sb5EzY"
-            },
-            "lastUpdated": "2019-10-21T20:31:39.622",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
-            "name": "% Primary schools with drinking water on school premises from protected sources",
-            "numerator": "#{XLsrk7ufw5q}",
-            "numeratorDescription": "Total number of primary schools with Drinking Water with in school premise from protected sources",
-            "publicAccess": "rw------",
-            "shortName": "% Primary schools with drinking water",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2019-10-21T20:37:57.982",
-            "denominator": "#{rA6QF7ZDLTO}",
-            "denominatorDescription": "Total number of primary schools in the Woreda",
-            "id": "yx8n90kCB8P",
-            "indicatorType": {
-                "id": "vInB2sb5EzY"
-            },
-            "lastUpdated": "2019-10-21T20:38:18.571",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
-            "name": "% Primary schools with hand washing station for children",
-            "numerator": "#{yHZBtHZ31Zw}",
-            "numeratorDescription": "Total Number of schools with handwashing station for children",
-            "publicAccess": "rw------",
-            "shortName": "%  schools with handwashing station for children",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2019-10-10T21:20:37.811",
-            "denominator": "#{rA6QF7ZDLTO}",
-            "denominatorDescription": "Total number of primary schools in the Woreda",
-            "id": "ic7KreN7p5y",
-            "indicatorType": {
-                "id": "vInB2sb5EzY"
-            },
-            "lastUpdated": "2019-10-10T21:20:37.811",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
-            "name": "%  Primary Schools with improved toilets",
-            "numerator": "#{lDCMXVc1sqi}",
-            "numeratorDescription": "Total number of primary schools with improved toilet",
-            "publicAccess": "rw------",
-            "shortName": "%  Primary Schools with improved toilets",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2019-03-03T15:42:50.504",
-            "decimals": 0,
-            "denominator": "#{oZ9K6CP5IlC}",
-            "denominatorDescription": "Population targeted for LF treatment",
-            "id": "t7sQTuYZ4u3",
-            "indicatorType": {
-                "id": "vInB2sb5EzY"
-            },
-            "lastUpdated": "2019-03-03T16:30:33.950",
-            "lastUpdatedBy": {
-                "id": "M5zQapPyTZI"
-            },
-            "legendSets": [],
-            "name": "% Program coverage for LF",
-            "numerator": "#{MDo91FRtJur}",
-            "numeratorDescription": "Population treated for LF",
-            "publicAccess": "rw------",
-            "shortName": "% Program coverage for LF",
-            "translations": [],
-            "user": {
-                "id": "M5zQapPyTZI"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2019-03-03T16:30:07.557",
-            "denominator": "#{Pp3bKCyc0vx}",
-            "denominatorDescription": "Population targeted for oncho treatment",
-            "id": "Cnlj26Q7iaQ",
-            "indicatorType": {
-                "id": "vInB2sb5EzY"
-            },
-            "lastUpdated": "2019-03-03T16:30:07.557",
-            "lastUpdatedBy": {
-                "id": "M5zQapPyTZI"
-            },
-            "legendSets": [],
-            "name": "% Program coverage for oncho",
-            "numerator": "#{aHmt1Gjbubg}",
+            "denominatorDescription": "Population requiring PC - oncho",
             "numeratorDescription": "Population treated for oncho",
-            "publicAccess": "rw------",
-            "shortName": "% Program coverage for oncho",
-            "translations": [],
+            "numerator": "#{aHmt1Gjbubg}",
+            "denominator": "#{PQ8giF0T2Ux}",
+            "annualized": false,
+            "indicatorType": {
+                "id": "vInB2sb5EzY"
+            },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
             "user": {
                 "id": "M5zQapPyTZI"
             },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
             "userAccesses": [],
-            "userGroupAccesses": []
+            "legendSets": []
         },
         {
+            "lastUpdated": "2019-11-25T23:00:56.560",
+            "id": "ESXAAGxr1yD",
+            "created": "2019-03-03T16:34:31.986",
+            "name": "% Epidemiological coverage - SCH (old)",
+            "shortName": "% Epi coverage - SCH (old)",
+            "publicAccess": "rw------",
+            "denominatorDescription": "SAC Population",
+            "numeratorDescription": "Population treated for SCH",
+            "numerator": "#{BdVa6Im13iq}",
+            "denominator": "#{qXbHnjF4Z4a.J28WZsF6S30} + #{qXbHnjF4Z4a.dM307212w1X} + #{qXbHnjF4Z4a.rgMcFrdj8Ha}",
             "annualized": false,
+            "indicatorType": {
+                "id": "vInB2sb5EzY"
+            },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "M5zQapPyTZI"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
             "attributeValues": [],
-            "created": "2020-06-25T18:49:14.446",
-            "denominator": "#{V2MPHZPFPj0}",
-            "denominatorDescription": "Number of 1-9 year olds enumerated (regardless of examination status)",
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2019-11-25T23:01:12.561",
+            "id": "fzNx5tpsvrQ",
+            "created": "2019-03-03T16:33:27.147",
+            "name": "% Epidemiological coverage - STH (old)",
+            "shortName": "% Epi coverage - STH (old)",
+            "publicAccess": "rw------",
+            "denominatorDescription": "SAC Population",
+            "numeratorDescription": "Population treated for STH",
+            "numerator": "#{GkqUNJFflvt}",
+            "denominator": "#{qXbHnjF4Z4a.J28WZsF6S30} + #{qXbHnjF4Z4a.dM307212w1X} + #{qXbHnjF4Z4a.rgMcFrdj8Ha}",
+            "annualized": false,
+            "indicatorType": {
+                "id": "vInB2sb5EzY"
+            },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "M5zQapPyTZI"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2019-10-21T20:41:00.250",
+            "id": "b6lvY8C71fX",
+            "created": "2019-10-21T20:41:00.250",
+            "name": "% Health posts with drinking water from protected sources ",
+            "shortName": "% Health posts w drinking water f protect sources",
+            "publicAccess": "rw------",
+            "denominatorDescription": "Total number of Health Post in the Woreda",
+            "numeratorDescription": "Total number of Health Post with Drinking Water with in Health Post premise from protected sources",
+            "numerator": "#{kpmKG66JmzP}",
+            "denominator": "#{ZwP20eYcUOD}",
+            "annualized": false,
+            "indicatorType": {
+                "id": "vInB2sb5EzY"
+            },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2019-10-10T21:00:52.274",
+            "id": "sKxkbPOhvaH",
+            "created": "2019-10-10T21:00:52.274",
+            "name": "%  Households with improved toilets",
+            "shortName": "%  Households with improved toilets",
+            "publicAccess": "rw------",
+            "denominatorDescription": "Total number of Households",
+            "numeratorDescription": "Total number of Households with improved toilet",
+            "numerator": "#{m5JyBMUaPLU}",
+            "denominator": "#{NAu2uyachB1}",
+            "annualized": false,
+            "indicatorType": {
+                "id": "vInB2sb5EzY"
+            },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-06-29T22:45:30.870",
+            "id": "K3cwFJx5PuR",
+            "created": "2020-06-29T22:45:30.870",
+            "name": "Is Impact Survey Planned",
+            "shortName": "Is Impact Survey Planned",
+            "publicAccess": "rw------",
+            "denominatorDescription": "1",
+            "numeratorDescription": "If true, then 1",
+            "numerator": "if(#{VPOEyUqLMHN}==1,1,0)",
+            "denominator": "1",
+            "annualized": false,
+            "indicatorType": {
+                "id": "MxGHzKaiBSP"
+            },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "code": "lf-total-num-ius",
+            "lastUpdated": "2019-03-07T14:25:39.907",
+            "id": "Bvry1LK7QeI",
+            "created": "2019-03-07T14:19:24.610",
+            "name": "LF - Total number of IUs",
+            "shortName": "LF - Total number of IUs",
+            "publicAccess": "rw------",
+            "denominatorDescription": "1",
+            "numeratorDescription": "Total IUs (known + unknown)",
+            "numerator": "#{xkdMpmLHObo} + #{OAXbNUQz4M3}",
+            "denominator": "1",
+            "annualized": false,
+            "indicatorType": {
+                "id": "MxGHzKaiBSP"
+            },
+            "lastUpdatedBy": {
+                "id": "zeQW9Bzmb4w"
+            },
+            "user": {
+                "id": "zeQW9Bzmb4w"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2019-10-21T20:31:39.622",
+            "id": "oB8jY0YXLq5",
+            "created": "2019-10-21T20:28:14.407",
+            "name": "% Primary schools with drinking water on school premises from protected sources",
+            "shortName": "% Primary schools with drinking water",
+            "publicAccess": "rw------",
+            "denominatorDescription": "Number of primary schools in the woreda",
+            "numeratorDescription": "Total number of primary schools with Drinking Water with in school premise from protected sources",
+            "numerator": "#{XLsrk7ufw5q}",
+            "denominator": "#{rA6QF7ZDLTO}",
+            "annualized": false,
+            "indicatorType": {
+                "id": "vInB2sb5EzY"
+            },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2019-10-21T20:38:18.571",
+            "id": "yx8n90kCB8P",
+            "created": "2019-10-21T20:37:57.982",
+            "name": "% Primary schools with hand washing station for children",
+            "shortName": "%  schools with handwashing station for children",
+            "publicAccess": "rw------",
+            "denominatorDescription": "Total number of primary schools in the Woreda",
+            "numeratorDescription": "Total Number of schools with handwashing station for children",
+            "numerator": "#{yHZBtHZ31Zw}",
+            "denominator": "#{rA6QF7ZDLTO}",
+            "annualized": false,
+            "indicatorType": {
+                "id": "vInB2sb5EzY"
+            },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2019-10-10T21:20:37.811",
+            "id": "ic7KreN7p5y",
+            "created": "2019-10-10T21:20:37.811",
+            "name": "%  Primary Schools with improved toilets",
+            "shortName": "%  Primary Schools with improved toilets",
+            "publicAccess": "rw------",
+            "denominatorDescription": "Total number of primary schools in the Woreda",
+            "numeratorDescription": "Total number of primary schools with improved toilet",
+            "numerator": "#{lDCMXVc1sqi}",
+            "denominator": "#{rA6QF7ZDLTO}",
+            "annualized": false,
+            "indicatorType": {
+                "id": "vInB2sb5EzY"
+            },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-10-05T16:36:25.751",
+            "id": "BNDwoqGcUaq",
+            "created": "2019-11-19T14:24:59.579",
+            "name": "% Program coverage for LF",
+            "shortName": "% Program coverage for LF",
+            "publicAccess": "rw------",
+            "denominatorDescription": "Population Targeted for MDA1",
+            "numeratorDescription": "Population Treated for MDA1",
+            "numerator": "#{JNrmrFP0Hxl}",
+            "denominator": "#{qoe4QWAq6jR}",
+            "annualized": false,
+            "decimals": 0,
+            "indicatorType": {
+                "id": "vInB2sb5EzY"
+            },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "M5zQapPyTZI"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-10-06T16:58:23.267",
+            "id": "t7sQTuYZ4u3",
+            "created": "2019-03-03T15:42:50.504",
+            "name": "% Program coverage for LF (OLD)",
+            "shortName": "% Program coverage for LF",
+            "publicAccess": "rw------",
+            "denominatorDescription": "Population targeted for LF treatment",
+            "numeratorDescription": "Population treated for LF",
+            "numerator": "#{MDo91FRtJur}",
+            "denominator": "#{oZ9K6CP5IlC}",
+            "annualized": false,
+            "decimals": 0,
+            "indicatorType": {
+                "id": "vInB2sb5EzY"
+            },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "M5zQapPyTZI"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-10-05T16:36:10.294",
+            "id": "pOjKSTGWXS5",
+            "created": "2019-11-19T17:03:39.494",
+            "name": "% Program coverage for oncho",
+            "shortName": "% Program coverage for oncho",
+            "publicAccess": "rw------",
+            "denominatorDescription": "greatest(Population Targeted for MDA1, Population Targeted for MDA3)",
+            "numeratorDescription": "Population treated for oncho",
+            "numerator": "greatest(#{JNrmrFP0Hxl},#{OqrSMyo77Kv},#{RS6LX2rpPiS})",
+            "denominator": "greatest(#{qoe4QWAq6jR}, #{rcRWqBM5Oey})",
+            "annualized": false,
+            "indicatorType": {
+                "id": "vInB2sb5EzY"
+            },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "M5zQapPyTZI"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2019-03-03T16:30:07.557",
+            "id": "Cnlj26Q7iaQ",
+            "created": "2019-03-03T16:30:07.557",
+            "name": "% Program coverage for oncho",
+            "shortName": "% Program coverage for oncho",
+            "publicAccess": "rw------",
+            "denominatorDescription": "Population targeted for oncho treatment",
+            "numeratorDescription": "Population treated for oncho",
+            "numerator": "#{aHmt1Gjbubg}",
+            "denominator": "#{Pp3bKCyc0vx}",
+            "annualized": false,
+            "indicatorType": {
+                "id": "vInB2sb5EzY"
+            },
+            "lastUpdatedBy": {
+                "id": "M5zQapPyTZI"
+            },
+            "user": {
+                "id": "M5zQapPyTZI"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-10-05T16:36:19.352",
+            "id": "wzssm5LIgQq",
+            "created": "2019-11-20T00:15:13.939",
+            "name": "% Program coverage - SCH",
+            "shortName": "% Program coverage - SCH (new)",
+            "publicAccess": "rw------",
+            "denominatorDescription": "greatest(Population Targeted for T1-PZQ,Population Targeted for T2)",
+            "numeratorDescription": "greatest(Population Treated for T1,Population Treated for T2)",
+            "numerator": "greatest(#{x6b06O6ZTMq},#{k4EUoCxJ29g})",
+            "denominator": "greatest(#{wMuHTPjBZt6},#{dmoPqc69Rml})",
+            "annualized": false,
+            "indicatorType": {
+                "id": "vInB2sb5EzY"
+            },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "M5zQapPyTZI"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-10-05T16:35:56.382",
+            "id": "yI60pqify6u",
+            "created": "2019-11-19T19:49:13.220",
+            "name": "% Program coverage - STH",
+            "shortName": "% Program coverage - STH (new)",
+            "publicAccess": "rw------",
+            "denominatorDescription": "greatest(Population Targeted for T3 Round 1 , Population Targeted for T3 Round 2)",
+            "numeratorDescription": "greatest(Population Treated for T3 Round 1,Population Treated for T3 Round 2)",
+            "numerator": "greatest(#{jTYuUWDJ4Ap},#{JPD0T0KW7Ni})",
+            "denominator": "greatest(#{fiy6WUwGPZp} , #{yVuMgov1svT})",
+            "annualized": false,
+            "indicatorType": {
+                "id": "vInB2sb5EzY"
+            },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "M5zQapPyTZI"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-10-05T16:35:44.319",
+            "id": "BNILCzL2HX9",
+            "created": "2019-03-03T16:38:38.908",
+            "name": "% Program coverage - Trachoma",
+            "shortName": "% Program coverage - Trachoma",
+            "publicAccess": "rw------",
+            "denominatorDescription": "Population targeted for trachoma treatment",
+            "numeratorDescription": "Population treated for trachoma",
+            "numerator": "#{VjJL41sHGxg} + #{e49ytfyq7MC} + #{mM3a9XLtQDz} + #{IyFgOdcuZ0D} ",
+            "denominator": "#{K2onnS3PddY}",
+            "annualized": false,
+            "indicatorType": {
+                "id": "vInB2sb5EzY"
+            },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "M5zQapPyTZI"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-10-05T15:24:25.076",
             "id": "u071KZqS8m6",
-            "indicatorType": {
-                "id": "vInB2sb5EzY"
-            },
-            "lastUpdated": "2020-06-25T19:05:14.079",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
+            "created": "2020-06-25T18:49:14.446",
             "name": "TF % (Tropical Data)",
-            "numerator": "#{jLBmISBEYEl}",
-            "numeratorDescription": "Number of 1-9 year olds examined",
-            "publicAccess": "rw------",
             "shortName": "TF % (Tropical Data)",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2020-06-29T22:51:00.637",
-            "denominator": "1",
-            "denominatorDescription": "1",
-            "id": "mU0YSmthR8I",
-            "indicatorType": {
-                "id": "MxGHzKaiBSP"
-            },
-            "lastUpdated": "2020-06-30T17:30:23.006",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
-            "name": "Trachoma Survey Conducted",
-            "numerator": "if(#{e2hJK8SKZ1v}>0,1,0)",
-            "numeratorDescription": "If there is a survey, then 1",
             "publicAccess": "rw------",
-            "shortName": "Trachoma Survey Conducted",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
+            "denominatorDescription": "Number of 1-9 year olds enumerated (regardless of examination status)",
+            "numeratorDescription": "Number of 1-9 year olds examined",
+            "numerator": "#{jLBmISBEYEl}",
+            "denominator": "#{V2MPHZPFPj0}",
             "annualized": false,
-            "attributeValues": [],
-            "created": "2020-06-29T22:54:13.215",
-            "denominator": "1",
-            "denominatorDescription": "1",
-            "id": "nXnIXgf7lc7",
-            "indicatorType": {
-                "id": "MxGHzKaiBSP"
-            },
-            "lastUpdated": "2020-06-29T22:54:13.215",
-            "lastUpdatedBy": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "legendSets": [],
-            "name": "Trachoma Survey Planning",
-            "numerator": "N{K3cwFJx5PuR}-N{mU0YSmthR8I}",
-            "numeratorDescription": "Is Impact Survey Planned-Trachoma Survey Conducted",
-            "publicAccess": "rw------",
-            "shortName": "Trachoma Survey Planning",
-            "translations": [],
-            "user": {
-                "id": "ul20ZJdv3Ck"
-            },
-            "userAccesses": [],
-            "userGroupAccesses": []
-        },
-        {
-            "annualized": false,
-            "attributeValues": [],
-            "created": "2020-06-25T18:50:08.421",
-            "denominator": "#{si6a8M15CM2}",
-            "denominatorDescription": "Number of 15+ year olds enumerated",
-            "id": "SdJC3m8IcDg",
             "indicatorType": {
                 "id": "vInB2sb5EzY"
             },
-            "lastUpdated": "2020-06-25T19:06:03.510",
             "lastUpdatedBy": {
                 "id": "ul20ZJdv3Ck"
             },
-            "legendSets": [],
-            "name": "TT % (Tropical Data)",
-            "numerator": "#{v7CgLWmGb7y}",
-            "numeratorDescription": "Number of 15+ year olds examined",
-            "publicAccess": "rw------",
-            "shortName": "TT % (Tropical Data)",
-            "translations": [],
             "user": {
                 "id": "ul20ZJdv3Ck"
             },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
             "userAccesses": [],
-            "userGroupAccesses": []
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-06-30T17:30:23.006",
+            "id": "mU0YSmthR8I",
+            "created": "2020-06-29T22:51:00.637",
+            "name": "Trachoma Survey Conducted",
+            "shortName": "Trachoma Survey Conducted",
+            "publicAccess": "rw------",
+            "denominatorDescription": "1",
+            "numeratorDescription": "If there is a survey, then 1",
+            "numerator": "if(#{e2hJK8SKZ1v}>0,1,0)",
+            "denominator": "1",
+            "annualized": false,
+            "indicatorType": {
+                "id": "MxGHzKaiBSP"
+            },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-06-29T22:54:13.215",
+            "id": "nXnIXgf7lc7",
+            "created": "2020-06-29T22:54:13.215",
+            "name": "Trachoma Survey Planning",
+            "shortName": "Trachoma Survey Planning",
+            "publicAccess": "rw------",
+            "denominatorDescription": "1",
+            "numeratorDescription": "Is Impact Survey Planned-Trachoma Survey Conducted",
+            "numerator": "N{K3cwFJx5PuR}-N{mU0YSmthR8I}",
+            "denominator": "1",
+            "annualized": false,
+            "indicatorType": {
+                "id": "MxGHzKaiBSP"
+            },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
+        },
+        {
+            "lastUpdated": "2020-10-05T15:24:25.076",
+            "id": "SdJC3m8IcDg",
+            "created": "2020-06-25T18:50:08.421",
+            "name": "TT % (Tropical Data)",
+            "shortName": "TT % (Tropical Data)",
+            "publicAccess": "rw------",
+            "denominatorDescription": "Number of 15+ year olds enumerated",
+            "numeratorDescription": "Number of 15+ year olds examined",
+            "numerator": "#{v7CgLWmGb7y}",
+            "denominator": "#{si6a8M15CM2}",
+            "annualized": false,
+            "indicatorType": {
+                "id": "vInB2sb5EzY"
+            },
+            "lastUpdatedBy": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "user": {
+                "id": "ul20ZJdv3Ck"
+            },
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "userAccesses": [],
+            "legendSets": []
         }
     ],
     "legendSets": [
